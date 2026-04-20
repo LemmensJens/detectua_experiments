@@ -1,0 +1,6 @@
+svm__C: 0.1
+svm__class_weight: {0: 1.0, 1: 2.5}
+vec__lowercase: False
+vec__max_df: 1.0
+vec__min_df: 5
+vec__ngram_range: (1, 1)

@@ -1,0 +1,3 @@
+seed: 42
+learning_rate: 5e-05
+num_steps: 200

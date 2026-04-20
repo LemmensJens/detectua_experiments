@@ -1,0 +1,5 @@
+svm__C: 5
+svm__class_weight: balanced
+vec__lowercase: False
+vec__max_df: 0.9
+vec__min_df: 10
